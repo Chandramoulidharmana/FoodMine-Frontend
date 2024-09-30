@@ -24,6 +24,7 @@ export function app(): express.Express {
 
 function run(): void {
   const port = process.env['PORT'] || 4000;
+  // const port = "https://food-mine-frontend.vercel.app"
 
   // Start up the Node server
   const server = app();
