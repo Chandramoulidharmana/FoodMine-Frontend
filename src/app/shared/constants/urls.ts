@@ -1,5 +1,5 @@
-const BASE_URL = 'http://localhost:5000';
-// const BASE_URL = 'https://food-mine-backend.vercel.app';
+// const BASE_URL = 'http://localhost:5000';
+const BASE_URL = 'https://food-mine-backend.vercel.app';
 // https://backend-ruddy-chi-18.vercel.app/
 
 
